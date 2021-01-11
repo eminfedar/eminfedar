@@ -14,10 +14,12 @@
 - **[termmminal](https://github.com/eminfedar/termmminal):** Basic Shell written in C for BSM309 (Operating Systems) homework (2019)
 
 ## Python (GTK3+)
-- **[pardus-image-writer](https://kod.acikkaynak.gov.tr/pardus/ondokuz/pardus-image-writer):** Simple ISO image burner to USB disks (2020)
-- **[pardus-java-installer](#):** Install, Remove & Change Java versions easily (2020)
-- **[pardus-kaptan](#):** User greeter & basic configurator for Pardus 21 (2020)
+- **[pardus-image-writer](https://kod.pardus.org.tr/pardus/ondokuz/pardus-image-writer):** Simple ISO image burner to USB disks (2020)
+- **[pardus-usb-formatter](https://kod.pardus.org.tr/pardus/ondokuz/pardus-usb-formatter):** Simple USB disk formatter (2020)
+- **[pardus-java-installer](https://kod.pardus.org.tr/pardus/ondokuz/pardus-java-installer):** Install, Remove & Change Java versions easily (2020)
+- **[pardus-welcome](#):** User greeter & basic configurator for Pardus 21 (2021)
+- **[pardus-about](https://kod.pardus.org.tr/pardus/ondokuz/pardus-about):** "About this computer" application. (2021)
 
 ## Vala (GTK3+)
 - **[simple-todo](https://github.com/eminfedar/simple-todo):** Simple ToDo app (2020)
-- **[debins-gtk](https://kod.acikkaynak.gov.tr/eminfedar/debins):** a Simple One-Click .Deb Package Installer (2020)
+- **[debins-gtk](https://kod.pardus.gov.tr/eminfedar/debins):** a Simple One-Click .Deb Package Installer (2020)
