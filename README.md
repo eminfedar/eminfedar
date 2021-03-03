@@ -1,3 +1,6 @@
+## Computer Organization & Processor Design (RISC-V)
+- **[rv32-im-cpu](https://github.com/eminfedar/rv32-im-cpu):** RV32IM RISC-V Core designed in Logisim Evolution (2020)
+
 ## C++
 - **[async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp):** Simple thread-based asynchronous TCP & UDP Socket classes in C++. (2020)
 - **[opencv-cpp-rehber](https://github.com/eminfedar/opencv-cpp-rehber):** OpenCV kütüphanesi için C++ diliyle hazırlanmış örnekler (2020)
