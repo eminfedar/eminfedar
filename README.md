@@ -1,5 +1,5 @@
 ## Computer Organization & Processor Design (RISC-V)
-- **[rv64im-cpu](https://github.com/eminfedar/rv64im-cpu):** 5-Stage Pipelined, 64 Bit, RV64IM RISC-V Core in Verilog (2021)
+- **[rv64im-verilog](https://github.com/eminfedar/rv64im-verilog):** 5-Stage Pipelined, 64 Bit, RV64IM RISC-V Core in Verilog (2021)
 - **[rv32-im-cpu](https://github.com/eminfedar/rv32-im-cpu):** RV32IM RISC-V Core designed in Logisim Evolution (2020)
 
 ## C++
