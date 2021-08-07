@@ -1,6 +1,7 @@
 ## Computer Organization & Processor Design (RISC-V)
-- **[fedar-f1-rv64im](https://github.com/eminfedar/fedar-f1-rv64im):** 5-Stage Pipelined, 64 Bit, RV64IM RISC-V Core in Verilog (2021)
-- **[rv32-im-cpu](https://github.com/eminfedar/rv32-im-cpu):** RV32IM RISC-V Core designed in Logisim Evolution (2020)
+- **[Fedar E1 Processor (RV32I)](https://github.com/eminfedar/fedar-e1-rv32i):** 5-Stage Pipelined, 32 GPIO pins, FPGA Synthesible RV32I RISC-V Core in Verilog (2021)
+- **[Fedar F1 Processor (RV64IM)](https://github.com/eminfedar/fedar-f1-rv64im):** 5-Stage Pipelined, 64 Bit, RV64IM RISC-V Core in Verilog (2021)
+- **[Logisim RV32I CPU](https://github.com/eminfedar/rv32-im-cpu):** RV32IM RISC-V Core designed in Logisim Evolution (2020)
 
 ## C++
 - **[async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp):** Simple thread-based asynchronous TCP & UDP Socket classes in C++. (2020)
