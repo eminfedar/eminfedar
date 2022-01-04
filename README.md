@@ -1,3 +1,6 @@
+## Rust
+- **[rust-async-tcp-chat-server](https://github.com/eminfedar/rust-async-tcp-chat-server):** Simple TCP chat server with async/.await and mutexes.
+
 ## Computer Organization & Processor Design (RISC-V)
 - **[Fedar E1 Processor (RV32I)](https://github.com/eminfedar/fedar-e1-rv32i):** 5-Stage Pipelined, 32 GPIO pins, FPGA Synthesible RV32I RISC-V Core in Verilog (2021)
 - **[Fedar F1 Processor (RV64IM)](https://github.com/eminfedar/fedar-f1-rv64im):** 5-Stage Pipelined, 64 Bit, RV64IM RISC-V Core in Verilog (2021)
