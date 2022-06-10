@@ -1,4 +1,5 @@
 ## Rust
+- **[rust-tr-ders-slaytlari](https://github.com/eminfedar/rust-tr-ders-slaytlari):** Rust dilinin *Sıfırdan ve Türkçe* olarak anlatıldığı slaytlar.
 - **[rust-async-tcp-chat-server](https://github.com/eminfedar/rust-async-tcp-chat-server):** Simple TCP chat server with async/.await and mutexes.
 
 ## Computer Organization & Processor Design (RISC-V)
