@@ -1,4 +1,5 @@
 ## Rust
+- **[simple-localization-rs](https://github.com/eminfedar/simple-localization-rs):** Simple localization library on Rust. (2023)
 - **[rust-tr-ders-slaytlari](https://github.com/eminfedar/rust-tr-ders-slaytlari):** Rust dilinin *Sıfırdan ve Türkçe* olarak anlatıldığı slaytlar.
 - **[rust-async-tcp-chat-server](https://github.com/eminfedar/rust-async-tcp-chat-server):** Simple TCP chat server with async/.await and mutexes.
 
