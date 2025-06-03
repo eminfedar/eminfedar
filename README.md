@@ -3,7 +3,7 @@
 - **[simple-localization-rs](https://github.com/eminfedar/simple-localization-rs):** Simple localization library on Rust. (2023)
 - **[rust-tr-ders-slaytlari](https://github.com/eminfedar/rust-tr-ders-slaytlari):** Rust dilinin *Sıfırdan ve Türkçe* olarak anlatıldığı slaytlar.
 - **[rust-async-tcp-chat-server](https://github.com/eminfedar/rust-async-tcp-chat-server):** Simple TCP chat server with async/.await and mutexes.
-- **[umacro-lib](https://github.com/eminfedar/umacro-lib):** Simulate Keyboard & Mouse events in Linux (X11 & Wayland) with uinput. (2025)
+- **[umacro-lib](https://github.com/eminfedar/umacro-lib):** Simulate Keyboard & Mouse events in Linux (X11 & Wayland) with uinput. (2024)
 - **[numlock-toggle](https://github.com/eminfedar/numlock-toggle):** a Numlock toggle app (uinput). Universal alternative to numlockx. Works on both Wayland & X11. (2025)
 
 ## Computer Organization & Processor Design (RISC-V)
