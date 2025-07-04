@@ -36,3 +36,6 @@
 ## Vala (GTK3+)
 - **[simple-todo](https://github.com/eminfedar/simple-todo):** Simple ToDo app (2020)
 - **[debins-gtk](https://kod.pardus.org.tr/eminfedar/debins):** a Simple One-Click .Deb Package Installer (2020)
+
+
+<a rel="me" href="https://sosyal.teknofest.app/@eminfedar">Test</a>
